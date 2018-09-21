@@ -6,8 +6,17 @@ body{
   text-align: left;
 }
 
+.myname{
+  font-family: sans-serif;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  color: #333;
+  background-color: #ccc;
+  width: 110px;
+  text-align: center; 
+}
 @media only screen and (max-width: 600px) {
-  
+
 body{
    background-color: #ffffff;
   }
